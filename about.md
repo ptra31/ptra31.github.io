@@ -15,11 +15,22 @@ Thanks for visiting my personal page! I hope you'll enjoy my works of art. I am 
 Cheers,
 Tra.
 
-### Kaggle Profile and Competition History (Updated May 2023)
+### Some of my random pics (Updated Jan 24)
 <div class="imgcap">
-<img src="/images/kaggleprofilemay23.png">
+<img src="/images/pt01.png">
 </div>
 
+<div class="imgcap">
+<img src="/images/pt02.png">
+</div>
+
+<div class="imgcap">
+<img src="/images/pt03.png">
+</div>
+
+<div class="imgcap">
+<img src="/images/pt05.png">
+</div>
 
 ### Contact me
 
