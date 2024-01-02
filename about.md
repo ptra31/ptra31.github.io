@@ -10,7 +10,7 @@ Hello mate!
 
 I am Phuong Tra, a lovely girl who loves art, drawing, and animation! Currently I am studying Bachelor of Art at TAFE, NSW, Australia.
 
-Thanks for visiting my personal page! I hope you'll enjoy my works of art. I am open for any work or discussion about art / animation, please just drop me an email to tearawood31@gmail.com.
+Thanks for visiting my personal page! I hope you'll enjoy my works of art. I am open for any work or discussion about art / animation, don't hesitate to drop me an email at tearawood31@gmail.com.
 
 Cheers,
 Tra.
