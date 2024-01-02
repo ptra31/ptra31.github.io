@@ -6,8 +6,8 @@ excerpt: "Here are just some of my random arts!"
 mathjax: true
 ---
 
-**Portraits**
-
+---------------------**Portraits**---------------------
+-------------------------------------------------------
 
 <div class="imgcap">
 <img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/art01.png?raw=true" width="600">
@@ -15,14 +15,18 @@ mathjax: true
 </div>
 This pencil art is my sister's family. I drew this as a birthday for my brother-in-law in June 2023.
 
-**Plants and Nature**
-
+---------------------**Plants and Nature**---------------------
+---------------------------------------------------------------
 
 <div class="imgcap">
 <img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/art02.png?raw=true" width="600">
 <div class="Desolation, 2023"></div>
 </div>
 "Desolation" (2023)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 <div class="imgcap">
 <img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/art03.png?raw=true" width="600">
