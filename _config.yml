@@ -1,11 +1,11 @@
 # Site settings
-title: Kha Vo blog
+title: An artistic blog of Phuong Tra (ptra31)
 email: 
-description: "The Magic of Machine Learning."
+description: "The Magic of Arts."
 baseurl: ""
-url: "http://voanhkha.github.io"
+url: "http://ptra31.github.io"
 twitter_username:
-github_username:  voanhkha
+github_username:  ptra31
 
 # Build settings
 markdown: kramdown
