@@ -1,1 +1,1 @@
-This is Kha Vo's blog source code. The blog link is voanhkha.github.io.
+This is Phuong Tra's blog source code. The blog link is ptra31.github.io.
