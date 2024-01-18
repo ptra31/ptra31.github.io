@@ -4,32 +4,41 @@ title: About
 permalink: /about/
 ---
 
-### Welcome to my blog!
+### Welcome to my sanctuary!
 
 Hello mate!
 
-I am Phuong Tra, a lovely girl who loves art, drawing, and animation! Currently I am studying Bachelor of Art at TAFE, NSW, Australia.
+Thank you for visiting my personal page! I hope you'll enjoy your stay here in my own zen.
 
-Thanks for visiting my personal page! I hope you'll enjoy my works of art. I am open for any work or discussion about art / animation, don't hesitate to drop me an email at tearawood31@gmail.com.
+My name is Tra. You can call me Tea if you want! 
 
-Cheers,
-Tra.
+I love beauty in general, especially in both art and music!
 
-### Some of my random pics (Updated Jan 24)
+Currently I am studying Bachelor of 3D Art & Animation at TAFE, NSW, Australia.
+
+I still find myself learning about art and animation, therefore, it would be great if you and I had a chance for any discussion about it.  
+
+Please, don't hesitate to drop me an email at tearawood31@gmail.com.
+
+Best wishes,
+
+Tra
+
+### Here are some of pics of myself (Updated Jan 1)
 <div class="imgcap">
-<img src="/images/pt01.png">
+<img src="/images/tea03.jpeg">
 </div>
 
 <div class="imgcap">
-<img src="/images/pt02.png">
+<img src="/images/tea04.jpeg">
 </div>
 
 <div class="imgcap">
-<img src="/images/pt03.png">
+<img src="/images/tea05.jpeg">
 </div>
 
 <div class="imgcap">
-<img src="/images/pt05.png">
+<img src="/images/tea06.jpeg">
 </div>
 
 ### Contact me
