@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: My ancient arts!
+title: My Artworks!
 excerpt: "Here are just some of my random arts!"
 mathjax: true
 ---
