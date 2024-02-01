@@ -73,10 +73,10 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 ===============================================================
 ===============================================================
 
----------------------**""Maiden 01" (June 2023)**---------------------
+---------------------**""Maiden" (June 2023)**---------------------
 <div class="imgcap">
 <img src="https://githubcom/ptra31/ptra31.github.io/blob/master/images/girl01.jpeg?raw=true" width="600">
-<div class="Maiden 01, June 2023"></div>
+<div class="Maiden, June 2023"></div>
 </div>
 
 ===============================================================
