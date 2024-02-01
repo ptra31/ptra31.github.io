@@ -75,7 +75,7 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 
 ---------------------**""Maiden 01" (June 2023)**---------------------
 <div class="imgcap">
-<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/girl01.jpeg?raw=true" width="600">
+<img src="https://githubcom/ptra31/ptra31.github.io/blob/master/images/girl01.jpeg?raw=true" width="600">
 <div class="Maiden 02, June 2023"></div>
 </div>
 
@@ -88,5 +88,60 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 <div class="Maiden 02, June 2023"></div>
 </div>
 
+===============================================================
+===============================================================
+
+---------------------**""Gourmet" (June 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/manart01.jpeg?raw=true" width="600">
+<div class="Gourmet, June 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**"Short Period" July 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/room.jpeg?raw=true" width="600">
+<div class="Short Period, July 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**""Rock Wall" (July 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/rockWall.jpeg?raw=true" width="600">
+<div class="Rock Wall, July 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**""Simplicity" (July 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/plantPot.jpeg?raw=true" width="600">
+<div class="Simplicity, July 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**""Nanashi" (August 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiTurnaround?.jpeg?raw=true" width="600">
+<div class="Nanashi, August 2023"></div>
+</div>
+Both a healer and a wanderer.
+
+===============================================================
+===============================================================
+
+---------------------**""Her Own Haven" (August 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiEnvi?.jpeg?raw=true" width="600">
+<div class="Her Own Haven, August 2023"></div>
+</div>
+Peace
 
 
