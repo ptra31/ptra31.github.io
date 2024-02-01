@@ -129,7 +129,7 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 
 ---------------------**""Nanashi" (August 2023)**---------------------
 <div class="imgcap">
-<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiTurnaround?.png?raw=true" width="600">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiTurnaround.png?raw=true" width="600">
 <div class="Nanashi, August 2023"></div>
 </div>
 Both a healer and a wanderer.
@@ -139,7 +139,7 @@ Both a healer and a wanderer.
 
 ---------------------**""Her Own Haven" (August 2023)**---------------------
 <div class="imgcap">
-<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiEnvi?.jpeg?raw=true" width="600">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiEnvi.jpeg?raw=true" width="600">
 <div class="Her Own Haven, August 2023"></div>
 </div>
 Peace
