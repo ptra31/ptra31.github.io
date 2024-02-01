@@ -61,5 +61,32 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 <div class="Skeleton, May 2023"></div>
 </div>
 
+===============================================================
+===============================================================
+
+---------------------**""Hands and Feet" (May 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/handsFeet.jpeg?raw=true" width="600">
+<div class="Hands and Feet, May 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**""Maiden 01" (June 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/girl01.jpeg?raw=true" width="600">
+<div class="Maiden 02, June 2023"></div>
+</div>
+
+===============================================================
+===============================================================
+
+---------------------**""Maiden 02" (June 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/girl02.jpeg?raw=true" width="600">
+<div class="Maiden 02, June 2023"></div>
+</div>
+
 
 
