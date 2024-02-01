@@ -144,4 +144,24 @@ Both a healer and a wanderer.
 </div>
 Peace
 
+===============================================================
+===============================================================
+
+---------------------**""Mist and Light" (September 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/mistyChara.png?raw=true" width="600">
+<div class=Mist and Light, September 2023"></div>
+</div>
+Red Mist and Green Light
+
+===============================================================
+===============================================================
+
+---------------------**""A Misty Evening" (September 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/mistyEnvir.png?raw=true" width="600">
+<div class=A Misty Evening, September 2023"></div>
+</div>
+A truth comes out within a play.
+
 
