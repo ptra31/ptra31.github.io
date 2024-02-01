@@ -76,7 +76,7 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 ---------------------**""Maiden 01" (June 2023)**---------------------
 <div class="imgcap">
 <img src="https://githubcom/ptra31/ptra31.github.io/blob/master/images/girl01.jpeg?raw=true" width="600">
-<div class="Maiden 02, June 2023"></div>
+<div class="Maiden 01, June 2023"></div>
 </div>
 
 ===============================================================
@@ -129,7 +129,7 @@ A fictional cage created for the hydrid creature, combined with the drawing of "
 
 ---------------------**""Nanashi" (August 2023)**---------------------
 <div class="imgcap">
-<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiTurnaround?.jpeg?raw=true" width="600">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/nanashiTurnaround?.png?raw=true" width="600">
 <div class="Nanashi, August 2023"></div>
 </div>
 Both a healer and a wanderer.
