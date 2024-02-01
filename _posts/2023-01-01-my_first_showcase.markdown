@@ -52,5 +52,14 @@ A drawing of hydrid creature.
 </div>
 A fictional cage created for the hydrid creature, combined with the drawing of "Ropes and Chains".
 
+===============================================================
+===============================================================
+
+---------------------**""Skeleton" (May 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/skeleton.jpeg?raw=true" width="600">
+<div class="Skeleton, May 2023"></div>
+</div>
+
 
 
