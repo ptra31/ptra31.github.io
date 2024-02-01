@@ -33,3 +33,13 @@ A practice with white pastel on black A3 paper.
 </div>
 A drawing of hydrid creature.
 
+===============================================================
+===============================================================
+
+---------------------**""Rope and Chains" (April 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/ropechain.jpeg?raw=true" width="600">
+<div class="Rope and Chains, April 2023"></div>
+</div>
+
+
