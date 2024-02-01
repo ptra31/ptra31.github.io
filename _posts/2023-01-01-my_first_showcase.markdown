@@ -36,10 +36,21 @@ A drawing of hydrid creature.
 ===============================================================
 ===============================================================
 
----------------------**""Rope and Chains" (April 2023)**---------------------
+---------------------**""Rope and Chains" (March 2023)**---------------------
 <div class="imgcap">
 <img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/ropechain.jpeg?raw=true" width="600">
-<div class="Rope and Chains, April 2023"></div>
+<div class="Rope and Chains, March 2023"></div>
 </div>
+
+===============================================================
+===============================================================
+
+---------------------**""Cage" (April 2023)**---------------------
+<div class="imgcap">
+<img src="https://github.com/ptra31/ptra31.github.io/blob/master/images/lynxEnvi.jpeg?raw=true" width="600">
+<div class="Cage, April 2023"></div>
+</div>
+A fictional cage created for the hydrid creature, combined with the drawing of "Ropes and Chains".
+
 
 
